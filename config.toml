@@ -29,6 +29,10 @@ paginate = 5
     dateFormatSingle = "2006-01-02"
     dateFormatList = "2006-01-02"
 
+    [languages.en.params]
+    introTitle = " Hey! I'm Yehsun"
+    introPhoto = "munich.png"
+
     [languages.en.params.logo]
       logoText = "hello friend"
       logoHomeLink = "/"
@@ -43,6 +47,10 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+        identifier = "projects"
+        name = "Projects"
+        url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "resume"
+        name = "Resume"
+        url = "/resume"
