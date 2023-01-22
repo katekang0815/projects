@@ -31,7 +31,7 @@ paginate = 5
 
     [languages.en.params]
     introTitle = " Hey! I'm Yehsun"
-    introPhoto = "munich.png"
+    introPhoto = "list.png"
 
     [languages.en.params.logo]
       logoText = "hello friend"
