@@ -1,15 +1,15 @@
 +++
 title = "Hello Friend"
 date = "1986-09-17"
-author = "Elliot"
+author = "Yehsun"
 cover = "img/hello.jpg"
-description = "\"Hello, friend?\" That's lame. Maybe I should give you a name?"
+description = "\"Hello, friend?\" Welcome to showcase of my projects. Please, look around and check whether this is what you are looking for."
 +++
 
-> "Hello, friend?" That's lame.
-> Maybe I should give you a name...
-> But that's a slippery slope.
-> You're only in my head.
+> "Hello, friend?"
+> Welcome to showcase of my projects.
+> Please, look around
+> and check whether this is what you are looking for.
 > We have to remember that...
 > Shit.
 > It's actually happened.
