@@ -1,22 +1,21 @@
 
 ---
-title: "About"
-date: "2023-01-18"
-author: "Yehsun"
+title: "Hi there"
+cover : "img/22.jpeg"
 ---
 
-# Hi there
 
-My name is Yehsun and I'm the author of this theme. I made it to help you present your ideas easier.
+My name is Yehsun, having architecture background pivoted my growth path toward a software engineer through BootCamp coding school in 2022 to make myself more useful to our community. 
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I'm future-oriented, anything would make our tomorrow better, I'm in.
+  
 
-This theme is pretty basic and covers all of the essentials. All you have to do is start typing!
 
-The theme includes:
+My `interest` includes:
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
+- **Domain-Driven Design, Python3, Javascript ES6**
+- **Back-End:** Django Framework, PostgreSQL, RabbitMQ
+- **Front-End:** React, DOM manipulation
 
-So, there you have it... enjoy!
+
+If you have any questions, feel free to contact me at yehsunkang@gmail.com.
