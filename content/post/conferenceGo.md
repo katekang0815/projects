@@ -13,12 +13,13 @@ cover: "img/conference/main.png"
   Django REST framework, React, Python, JavaScript, PostgreSQL, Docker, RabbitMQ, RabbitMQ, RESTful API's
 
 ### External API Integrations
-* [Pexels](https://python-gitlab.readthedocs.io/en/stable/api-usage.html)
-   - Provides a access token for full list of available public resources.
-   - The gitlab.Gitlab class provides managers to access the GitLab resources. Each manager provides a set of methods to act on the resources. The available methods depend on the resource type.
-* [Weather ](https://docs.gitlab.com/ee/api/projects.html)
-    - Get a list of the public project can be accessed without any authentication.
-    - Retrieve data from the each project for the attribute: projectId, project name, group name, group id, team members, language usage, commits distributions,started date. 
+* [Pexels](https://www.pexels.com/api/documentation/#photos-search)
+  API to get the URL of a picture of the city when create a new location instance
+
+* [Geocoding API ](https://openweathermap.org/api/geocoding-api)
+ Translating the city and state for the conference into latitude and longitude
+* [Current weather data ](https://openweathermap.org/current)
+  API to get the current weather for the latitude and longitude found in the Geocoding API
 
 ### Conference Form
 ![list](/img/conference/createConference.png)
