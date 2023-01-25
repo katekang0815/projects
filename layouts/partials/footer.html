@@ -4,10 +4,22 @@
       <div class="copyright copyright--user">{{ $.Site.Copyright | safeHTML }}</div>
       {{ else }}
       {{ partial "logo.html" . }}
+<!-- 
+      <div class="copyright">
+        <span> <a href="https://gitlab.com/yehsunkang"><i class="fa fa-facebook"></i> </a>
+        <a href="https://gitlab.com/yehsunkang"><i class="fa fa-twitter"></i> </a>
+        <a href="https://www.instagram.com/katekang0815/"><i class="fa fa-snapchat-ghost"></i> </a>
+        <a href="https://www.instagram.com/katekang0815/" target="_blank" ><i class="fa fa-instagram"></i> </a>
+        <a href="https://gohugo.io"><i class="fa fa-google-plus"></i> </a>
+      </span> -->
+
       <div class="copyright">
         <span>© {{ now.Year }} Powered by <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a></span>
-        <!-- <span><a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span> -->
-      </div>
+        <span>
+          <a href="https://www.linkedin.com/in/yehsun-kang/" target="_blank">Linkedin</a>
+          <a href="https://gitlab.com/yehsunkang" target="_blank">Gitlab</a> 
+          <a href="https://www.instagram.com/katekang0815/" target="_blank">Instagram</a> 
+        </span>
     {{ end }}
   </div>
 </footer>

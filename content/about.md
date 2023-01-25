@@ -13,9 +13,9 @@ I'm future-oriented, anything would make our tomorrow better, I'm in.
 
 My `interest` includes:
 
-- **Domain-Driven Design, Python3, Javascript ES6**
-- **Back-End:** Django Framework, PostgreSQL, RabbitMQ
-- **Front-End:** React, DOM manipulation
+- **Domain-Driven Design**
+- **Back-End:** Django Framework, PostgreSQL, Python3, Javascript, ES6, RESTful API, RabbitMQ
+- **Front-End:** React, DOM manipulation, Bootstrap
 
 
 If you have any questions, feel free to contact me at yehsunkang@gmail.com.
