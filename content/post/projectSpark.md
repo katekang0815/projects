@@ -41,6 +41,7 @@ For `API endpoints` for projects in-depth, look at [API design](https://gitlab.c
 
 
 ![detail](/img/spark/detail.png)
+![detail](/img/spark/detailContinue.png)
 
 
 ### Project detail page features
